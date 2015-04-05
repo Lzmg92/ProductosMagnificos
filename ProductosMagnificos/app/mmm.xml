@@ -1,0 +1,2317 @@
+﻿<definicion>
+	<categorias> 
+		<categoria>
+			<codigo>112</codigo>
+			<nombre>Ropa y accesorios</nombre>
+		</categoria>
+		<categoria>
+			<codigo>212</codigo>
+			<nombre>Medios audiovisuales</nombre>
+		</categoria>
+		<categoria>
+			<codigo>231</codigo>
+			<nombre>Software</nombre>
+		</categoria>
+		<categoria>
+			<codigo>241</codigo>
+			<nombre>Electronicos</nombre>
+		</categoria>
+		<categoria>
+			<codigo>251</codigo>
+			<nombre>Linea Blanca</nombre>
+		</categoria>
+		<categoria>
+			<codigo>261</codigo>
+			<nombre>Joyeria</nombre>
+		</categoria>
+		<categoria>
+			<codigo>271</codigo>
+			<nombre>Perfumeria</nombre>
+		</categoria>
+	</categorias>
+	<productos>
+		<producto>
+			<codigo>1</codigo>
+			<nombre>Lavadora Mabe</nombre>
+			<categoria>5</categoria>
+		</producto>
+		<producto>
+			<codigo>2</codigo>
+			<nombre>Dvd Masacre de texas 2003</nombre>
+			<categoria>2</categoria>
+		</producto>
+		<producto>
+			<codigo>3</codigo>
+			<nombre>Equipo de sonido Sony</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>4</codigo>
+			<nombre>Pulcera color negro</nombre>
+			<categoria>1</categoria>
+		</producto>
+		<producto>
+			<codigo>5</codigo>
+			<nombre>Aretes de rubi</nombre>
+			<categoria>6</categoria>
+		</producto>
+		<producto>
+			<codigo>6</codigo>
+			<nombre>Television plasma LG</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>7</codigo>
+			<nombre>Televison lcd 3d samsung</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>8</codigo>
+			<nombre>Antivirus Avast</nombre>
+			<categoria>3</categoria>
+		</producto>
+		<producto>
+			<codigo>9</codigo>
+			<nombre>CD Album la loba Shakira</nombre>
+			<categoria>2</categoria>
+		</producto>
+		<producto>
+			<codigo>10</codigo>
+			<nombre>Samsung Galaxy S5</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>11</codigo>
+			<nombre>DVD libranos del mal</nombre>
+			<categoria>2</categoria>
+		</producto>
+		<producto>
+			<codigo>12</codigo>
+            <nombre>Argolla 3d media cana light</nombre>
+			<categoria>6</categoria>
+		</producto>
+		<producto>
+			<codigo>13</codigo>
+			<nombre>Iphone 5</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>14</codigo>
+			<nombre>Camisa Tipo polo color verde talla L</nombre>
+			<categoria>1</categoria>
+		</producto>
+		<producto>
+			<codigo>15</codigo>
+			<nombre>Burton</nombre>
+			<categoria>7</categoria>
+		</producto>
+		<producto>
+			<codigo>16</codigo>
+			<nombre>Tatum</nombre>
+			<categoria>2</categoria>
+		</producto>
+		<producto>
+			<codigo>17</codigo>
+			<nombre>Tucker</nombre>
+			<categoria>3</categoria>
+		</producto>
+		<producto>
+			<codigo>18</codigo>
+			<nombre>Harriet</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>19</codigo>
+			<nombre>Gillian</nombre>
+			<categoria>3</categoria>
+		</producto>
+		<producto>
+			<codigo>20</codigo>
+			<nombre>Nola</nombre>
+			<categoria>2</categoria>
+		</producto>
+		<producto>
+			<codigo>21</codigo>
+			<nombre>FARE FOLLIE BY CARLO CORINTO</nombre>
+			<categoria>7</categoria>
+		</producto>
+		<producto>
+			<codigo>22</codigo>
+			<nombre>GLOW AFTER DARK BY JENNIFER LOPEZ</nombre>
+			<categoria>7</categoria>
+		</producto>
+		<producto>
+			<codigo>23</codigo>
+			<nombre>Sony DSC-TX10 Azul de 15.9 megapixeles</nombre>
+			<categoria>4</categoria>
+		</producto>
+		<producto>
+			<codigo>24</codigo>
+			<nombre>LOVERDOSE BY DIESEL</nombre>
+			<categoria>7</categoria>
+		</producto>
+		<producto>
+			<codigo>25</codigo>
+			<nombre>Refrigeradora samsung</nombre>
+			<categoria>5</categoria>
+		</producto>
+		<producto>
+			<codigo>26</codigo>
+			<nombre>Anillo casual para dama Y-095</nombre>
+			<categoria>6</categoria>
+		</producto>
+		<producto>
+			<codigo>27</codigo>
+			<nombre>Pantalon baquero negro adolfo talla 32-32</nombre>
+			<categoria>1</categoria>
+		</producto>
+		<producto>
+			<codigo>28</codigo>
+			<nombre>Rahim</nombre>
+			<categoria>2</categoria>
+		</producto>
+		<producto>
+			<codigo>29</codigo>
+			<nombre>Pantalon baquero azul adolfo talla 32-32</nombre>
+			<categoria>1</categoria>
+		</producto>
+		<producto>
+			<codigo>30</codigo>
+			<nombre>anillo casual para dama Y-003</nombre>
+			<categoria>6</categoria>
+		</producto>
+	</productos>
+	<listas>
+		<lista>
+		<codigo>1</codigo> 
+		<nombre>regalos para navidad</nombre> 
+		<detalle>
+		<item>
+			<codigo_producto>15</codigo_producto>
+			<valor>8.83</valor>
+		</item>
+		<item>
+			<codigo_producto>20</codigo_producto>
+			<valor>4.37</valor>
+		</item>
+		<item>
+			<codigo_producto>24</codigo_producto>
+			<valor>4.43</valor>
+		</item>
+		<item>
+			<codigo_producto>24</codigo_producto>
+			<valor>0.03</valor>
+		</item>
+		<item>
+			<codigo_producto>25</codigo_producto>
+			<valor>4.31</valor>
+		</item>
+		<item>
+			<codigo_producto>5</codigo_producto>
+			<valor>8.58</valor>
+		</item>
+		<item>
+			<codigo_producto>8</codigo_producto>
+			<valor>4.44</valor>
+		</item>
+		<item>
+			<codigo_producto>2</codigo_producto>
+			<valor>1.02</valor>
+		</item>
+		<item>
+			<codigo_producto>18</codigo_producto>
+			<valor>7.32</valor>
+		</item>
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>7.66</valor>
+		</item>
+		<item>
+			<codigo_producto>19</codigo_producto>
+			<valor>8.22</valor>
+		</item>
+		<item>
+			<codigo_producto>13</codigo_producto>
+			<valor>0.29</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>6.27</valor>
+		</item>
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>5.66</valor>
+		</item>
+		<item>
+			<codigo_producto>14</codigo_producto>
+			<valor>1.62</valor>
+		</item>
+		<item>
+			<codigo_producto>15</codigo_producto>
+			<valor>7.33</valor>
+		</item>
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>7.89</valor>
+		</item>
+		<item>
+			<codigo_producto>20</codigo_producto>
+			<valor>9.20</valor>
+		</item>
+		<item>
+			<codigo_producto>11</codigo_producto>
+			<valor>3.45</valor>
+		</item>
+		</detalle>
+		</lista>
+
+
+		<lista>
+		<codigo>2</codigo> 
+		<nombre>lista de compras</nombre> 
+		<detalle>
+		<item>
+			<codigo_producto>24</codigo_producto>
+			<valor>512.22</valor>
+		</item>
+		<item>
+			<codigo_producto>30</codigo_producto>
+			<valor>399.75</valor>
+		</item>
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>425.15</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>792.74</valor>
+		</item>
+		<item>
+			<codigo_producto>2</codigo_producto>
+			<valor>471.39</valor>
+		</item>
+		<item>
+			<codigo_producto>1</codigo_producto>
+			<valor>978.14</valor>
+		</item>
+		<item>
+			<codigo_producto>11</codigo_producto>
+			<valor>467.08</valor>
+		</item>
+		<item>
+			<codigo_producto>4</codigo_producto>
+			<valor>383.90</valor>
+		</item>
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>323.68</valor>
+		</item>
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>919.79</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>751.10</valor>
+		</item>
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>609.06</valor>
+		</item>
+		<item>
+			<codigo_producto>8</codigo_producto>
+			<valor>554.57</valor>
+		</item>
+		<item>
+			<codigo_producto>9</codigo_producto>
+			<valor>302.89</valor>
+		</item>
+		<item>
+			<codigo_producto>14</codigo_producto>
+			<valor>561.39</valor>
+		</item>
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>310.67</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>653.48</valor>
+		</item>
+		<item>
+			<codigo_producto>22</codigo_producto>
+			<valor>798.79</valor>
+		</item>
+		<item>
+			<codigo_producto>27</codigo_producto>
+			<valor>727.08</valor>
+		</item>
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>445.60</valor>
+		</item>
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>678.65</valor>
+		</item>
+		<item>
+			<codigo_producto>15</codigo_producto>
+			<valor>436.27</valor>
+		</item>
+		<item>
+			<codigo_producto>4</codigo_producto>
+			<valor>512.33</valor>
+		</item>
+		<item>
+			<codigo_producto>27</codigo_producto>
+			<valor>224.87</valor>
+		</item>
+		</detalle>
+		</lista>
+
+		<lista>
+		<codigo>3</codigo> 
+		<nombre>lista de compras 3</nombre> 
+		<detalle>
+		<item>
+			<codigo_producto>24</codigo_producto>
+			<valor>512.22</valor>
+		</item>
+		<item>
+			<codigo_producto>30</codigo_producto>
+			<valor>399.75</valor>
+		</item>
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>425.15</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>792.74</valor>
+		</item>
+		<item>
+			<codigo_producto>2</codigo_producto>
+			<valor>471.39</valor>
+		</item>
+		<item>
+			<codigo_producto>1</codigo_producto>
+			<valor>978.14</valor>
+		</item>
+		<item>
+			<codigo_producto>11</codigo_producto>
+			<valor>467.08</valor>
+		</item>
+		<item>
+			<codigo_producto>4</codigo_producto>
+			<valor>383.90</valor>
+		</item>
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>323.68</valor>
+		</item>
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>919.79</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>751.10</valor>
+		</item>
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>609.06</valor>
+		</item>
+		<item>
+			<codigo_producto>8</codigo_producto>
+			<valor>554.57</valor>
+		</item>
+		<item>
+			<codigo_producto>9</codigo_producto>
+			<valor>302.89</valor>
+		</item>
+
+		<item>
+			<codigo_producto>27</codigo_producto>
+			<valor>727.08</valor>
+		</item>
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>445.60</valor>
+		</item>
+
+		<item>
+			<codigo_producto>15</codigo_producto>
+			<valor>436.27</valor>
+		</item>
+		<item>
+			<codigo_producto>4</codigo_producto>
+			<valor>512.33</valor>
+		</item>
+
+		</detalle>
+		</lista>
+
+
+		<lista>
+		<codigo>4</codigo> 
+		<nombre>lista de compras 4</nombre> 
+		<detalle>
+		<item>
+			<codigo_producto>24</codigo_producto>
+			<valor>512.22</valor>
+		</item>
+		<item>
+			<codigo_producto>30</codigo_producto>
+			<valor>399.75</valor>
+		</item>
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>425.15</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>792.74</valor>
+		</item>
+		<item>
+			<codigo_producto>2</codigo_producto>
+			<valor>471.39</valor>
+		</item>
+		<item>
+			<codigo_producto>1</codigo_producto>
+			<valor>978.14</valor>
+		</item>
+
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>323.68</valor>
+		</item>
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>919.79</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>751.10</valor>
+		</item>
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>609.06</valor>
+		</item>
+
+		</detalle>
+		</lista>
+
+		<lista>
+		<codigo>5</codigo> 
+		<nombre>lista de compras 5</nombre> 
+		<detalle>
+
+		<item>
+			<codigo_producto>10</codigo_producto>
+			<valor>425.15</valor>
+		</item>
+		<item>
+			<codigo_producto>7</codigo_producto>
+			<valor>792.74</valor>
+		</item>
+		<item>
+			<codigo_producto>2</codigo_producto>
+			<valor>471.39</valor>
+		</item>
+		<item>
+			<codigo_producto>1</codigo_producto>
+			<valor>978.14</valor>
+		</item>
+
+		<item>
+			<codigo_producto>6</codigo_producto>
+			<valor>609.06</valor>
+		</item>
+
+		</detalle>
+		</lista>
+
+		<lista>
+		<codigo>6</codigo> 
+		<nombre>anillos</nombre> 
+		<detalle>
+
+		<item>
+			<codigo_producto>26</codigo_producto>
+			<valor>4025.99</valor>
+		</item>
+
+
+		</detalle>
+		</lista>
+	</listas>
+	<ciudades>
+		<ciudad>
+			<codigo>1</codigo>
+			<nombre>MA</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>2</codigo>
+			<nombre>Campania</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>3</codigo>
+			<nombre>PR</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>4</codigo>
+			<nombre>New South Wales</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>5</codigo>
+			<nombre>Connecticut</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>6</codigo>
+			<nombre>Bahia</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>7</codigo>
+			<nombre>Ceara</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>8</codigo>
+			<nombre>North Island</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>9</codigo>
+			<nombre>Lazio</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>10</codigo>
+			<nombre>Vienna</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>11</codigo>
+			<nombre>Liguria</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>12</codigo>
+			<nombre>RI</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>13</codigo>
+			<nombre>KD</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>14</codigo>
+			<nombre>PK</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>15</codigo>
+			<nombre>SI</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>16</codigo>
+			<nombre>OH</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>17</codigo>
+			<nombre>Saskatchewan</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>18</codigo>
+			<nombre>KO</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>19</codigo>
+			<nombre>Alabama</nombre>
+		</ciudad>
+		<ciudad>
+			<codigo>20</codigo>
+			<nombre>Illinois</nombre>
+		</ciudad>
+	</ciudades>
+	<departamentos>
+		<depto>
+			<codigo>1</codigo>
+			<nombre>New Haven</nombre>
+			<codigo_ciudad>7</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>2</codigo>
+			<nombre>Oranienburg</nombre>
+			<codigo_ciudad>2</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>3</codigo>
+			<nombre>Motherwell</nombre>
+			<codigo_ciudad>5</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>4</codigo>
+			<nombre>Lambersart</nombre>
+			<codigo_ciudad>6</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>5</codigo>
+			<nombre>Wandsworth</nombre>
+			<codigo_ciudad>1</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>6</codigo>
+			<nombre>Detroit</nombre>
+			<codigo_ciudad>13</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>7</codigo>
+			<nombre>Rapagnano</nombre>
+			<codigo_ciudad>3</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>8</codigo>
+			<nombre>White Rock</nombre>
+			<codigo_ciudad>2</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>9</codigo>
+			<nombre>Umbertide</nombre>
+			<codigo_ciudad>5</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>10</codigo>
+			<nombre>Serrungarina</nombre>
+			<codigo_ciudad>1</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>11</codigo>
+			<nombre>Lowell</nombre>
+			<codigo_ciudad>16</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>12</codigo>
+			<nombre>Marseille</nombre>
+			<codigo_ciudad>4</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>13</codigo>
+			<nombre>Chapadinha</nombre>
+			<codigo_ciudad>3</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>14</codigo>
+			<nombre>Mount Isa</nombre>
+			<codigo_ciudad>14</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>15</codigo>
+			<nombre>Mores</nombre>
+			<codigo_ciudad>6</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>16</codigo>
+			<nombre>Denver</nombre>
+			<codigo_ciudad>2</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>17</codigo>
+			<nombre>Nieuwmunster</nombre>
+			<codigo_ciudad>1</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>18</codigo>
+			<nombre>Ficarolo</nombre>
+			<codigo_ciudad>10</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>19</codigo>
+			<nombre>Jaunpur</nombre>
+			<codigo_ciudad>19</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>20</codigo>
+			<nombre>Orsogna</nombre>
+			<codigo_ciudad>5</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>21</codigo>
+			<nombre>Campinas</nombre>
+			<codigo_ciudad>13</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>22</codigo>
+			<nombre>Spoleto</nombre>
+			<codigo_ciudad>5</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>23</codigo>
+			<nombre>Castelluccio Inferiore</nombre>
+			<codigo_ciudad>3</codigo_ciudad>
+		</depto>
+		<depto>
+			<codigo>24</codigo>
+			<nombre>Cabras</nombre>
+			<codigo_ciudad>2</codigo_ciudad>
+		</depto>
+	</departamentos>
+	<clientes>
+		<cliente>
+			<NIT>4235367376M</NIT>
+			<nombre>Adam</nombre>
+			<apellido>Dickerson</apellido>
+			<nacimiento>01/12/2014</nacimiento>
+			<direccion>Apartado num.: 302, 1404 Nec Ctra.</direccion>
+			<telefono>57302828</telefono>
+			<celular>66319422</celular>
+			<email>augue@maurisaliquameu.org</email>
+			<depto>2</depto>
+			<limite_credito>7208.08</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>65766667188</NIT>
+			<nombre>Zelenia</nombre>
+			<apellido>Fleming</apellido>
+			<nacimiento>03/09/2013</nacimiento>
+			<direccion>454-1466 Sed Carretera</direccion>
+			<telefono>48517448</telefono>
+			<celular>27193814</celular>
+			<email>eget.metus@etmalesuada.com</email>
+			<depto>4</depto>
+			<limite_credito>8178.07</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>81651339465</NIT>
+			<nombre>Halla</nombre>
+			<apellido>Roth</apellido>
+			<nacimiento>19/01/2013</nacimiento>
+			<direccion>Apartado num.: 746, 1492 Aliquet. Calle</direccion>
+			<telefono>55880433</telefono>
+			<celular>96713002</celular>
+			<email>sapien.Nunc@quamCurabitur.com</email>
+			<depto>5</depto>
+			<limite_credito>7189.89</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4760322521Z</NIT>
+			<nombre>Simon</nombre>
+			<apellido>Mckay</apellido>
+			<nacimiento>03/06/2013</nacimiento>
+			<direccion>160-3249 Dapibus Ctra.</direccion>
+			<telefono>23101244</telefono>
+			<celular>10592086</celular>
+			<email>Integer.in@risusDonec.com</email>
+			<depto>18</depto>
+			<limite_credito>9096.87</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>8995823595O</NIT>
+			<nombre>Jemima</nombre>
+			<apellido>Wilkinson</apellido>
+			<nacimiento>08/01/2014</nacimiento>
+			<direccion>Apdo.:530-4206 Nam Carretera</direccion>
+			<telefono>85982918</telefono>
+			<celular>06002460</celular>
+			<email>sagittis@nascetur.edu</email>
+			<depto>6</depto>
+			<limite_credito>4075.07</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>60839203955</NIT>
+			<nombre>Emery</nombre>
+			<apellido>Warren</apellido>
+			<nacimiento>15/07/2013</nacimiento>
+			<direccion>Apdo.:718-8183 Justo Avenida</direccion>
+			<telefono>95692536</telefono>
+			<celular>29280998</celular>
+			<email>risus.Donec.egestas@arcuetpede.org</email>
+			<depto>6</depto>
+			<limite_credito>6299.41</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>0560883882H</NIT>
+			<nombre>Jordan</nombre>
+			<apellido>Fuller</apellido>
+			<nacimiento>10/08/2014</nacimiento>
+			<direccion>936 Integer Carretera</direccion>
+			<telefono>00329964</telefono>
+			<celular>98792367</celular>
+			<email>justo@lacusvestibulum.edu</email>
+			<depto>7</depto>
+			<limite_credito>3755.32</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>6079911796K</NIT>
+			<nombre>Jade</nombre>
+			<apellido>Wells</apellido>
+			<nacimiento>16/07/2013</nacimiento>
+			<direccion>Apdo.:426-6630 Mauris Avenida</direccion>
+			<telefono>17047467</telefono>
+			<celular>68914720</celular>
+			<email>mi.Aliquam.gravida@consequat.com</email>
+			<depto>1</depto>
+			<limite_credito>2328.09</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>87993340734</NIT>
+			<nombre>Grant</nombre>
+			<apellido>Beach</apellido>
+			<nacimiento>23/10/2014</nacimiento>
+			<direccion>Apdo.:801-2978 Dui. C/</direccion>
+			<telefono>18213029</telefono>
+			<celular>71883266</celular>
+			<email>erat.vitae.risus@Suspendissenonleo.ca</email>
+			<depto>1</depto>
+			<limite_credito>2411.60</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>58768488309</NIT>
+			<nombre>Brendan</nombre>
+			<apellido>Hutchinson</apellido>
+			<nacimiento>28/07/2013</nacimiento>
+			<direccion>3168 Quisque Avenida</direccion>
+			<telefono>32592241</telefono>
+			<celular>94381863</celular>
+			<email>Proin@magnisdisparturient.com</email>
+			<depto>1</depto>
+			<limite_credito>8761.70</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>01941248416</NIT>
+			<nombre>Leilani</nombre>
+			<apellido>Gordon</apellido>
+			<nacimiento>05/01/2014</nacimiento>
+			<direccion>Apartado num.: 746, 5735 Eros C/</direccion>
+			<telefono>73787501</telefono>
+			<celular>97196072</celular>
+			<email>risus.In@Donecsollicitudinadipiscing.com</email>
+			<depto>7</depto>
+			<limite_credito>9359.69</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>29542301679</NIT>
+			<nombre>Elmo</nombre>
+			<apellido>Wilkerson</apellido>
+			<nacimiento>13/08/2015</nacimiento>
+			<direccion>7121 Pede, Calle</direccion>
+			<telefono>30492502</telefono>
+			<celular>81060480</celular>
+			<email>egestas.Aliquam.nec@Suspendisseac.org</email>
+			<depto>9</depto>
+			<limite_credito>1502.50</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>0878264580O</NIT>
+			<nombre>Joelle</nombre>
+			<apellido>Woods</apellido>
+			<nacimiento>20/08/2014</nacimiento>
+			<direccion>Apartado num.: 342, 9916 Eu, C/</direccion>
+			<telefono>45574642</telefono>
+			<celular>69571013</celular>
+			<email>dapibus.rutrum@ullamcorper.edu</email>
+			<depto>20</depto>
+			<limite_credito>2350.01</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4294604443W</NIT>
+			<nombre>Silas</nombre>
+			<apellido>Mcconnell</apellido>
+			<nacimiento>02/12/2014</nacimiento>
+			<direccion>Apartado num.: 873, 1875 Sit Avenida</direccion>
+			<telefono>79172835</telefono>
+			<celular>78391841</celular>
+			<email>mauris@Vestibulumaccumsan.co.uk</email>
+			<depto>18</depto>
+			<limite_credito>9303.28</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>00557354596</NIT>
+			<nombre>Kevyn</nombre>
+			<apellido>Chan</apellido>
+			<nacimiento>10/10/2014</nacimiento>
+			<direccion>699-6174 Litora Ctra.</direccion>
+			<telefono>92953076</telefono>
+			<celular>88821435</celular>
+			<email>sapien@blanditenimconsequat.co.uk</email>
+			<depto>8</depto>
+			<limite_credito>9451.31</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4704983936D</NIT>
+			<nombre>Whilemina</nombre>
+			<apellido>Parsons</apellido>
+			<nacimiento>02/06/2013</nacimiento>
+			<direccion>624-9006 At Av.</direccion>
+			<telefono>02457418</telefono>
+			<celular>04411336</celular>
+			<email>Proin.eget@congue.com</email>
+			<depto>4</depto>
+			<limite_credito>758.62</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>3777490937V</NIT>
+			<nombre>Alfonso</nombre>
+			<apellido>Merritt</apellido>
+			<nacimiento>20/06/2013</nacimiento>
+			<direccion>Apdo.:997-7263 Cras C/</direccion>
+			<telefono>40195838</telefono>
+			<celular>00118695</celular>
+			<email>morbi@mienim.ca</email>
+			<depto>11</depto>
+			<limite_credito>6737.69</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4423815747K</NIT>
+			<nombre>Leigh</nombre>
+			<apellido>Burt</apellido>
+			<nacimiento>24/12/2014</nacimiento>
+			<direccion>Apartado num.: 216, 6938 Fringilla. C/</direccion>
+			<telefono>93572138</telefono>
+			<celular>74149965</celular>
+			<email>Cras.dictum@dolorsit.ca</email>
+			<depto>19</depto>
+			<limite_credito>1445.22</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5967694760I</NIT>
+			<nombre>Luke</nombre>
+			<apellido>Craig</apellido>
+			<nacimiento>06/11/2014</nacimiento>
+			<direccion>Apdo.:366-5066 Malesuada C/</direccion>
+			<telefono>02921506</telefono>
+			<celular>94328412</celular>
+			<email>ligula@magnisdisparturient.co.uk</email>
+			<depto>17</depto>
+			<limite_credito>4056.63</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>96562168278</NIT>
+			<nombre>Shelly</nombre>
+			<apellido>Carver</apellido>
+			<nacimiento>28/02/2013</nacimiento>
+			<direccion>Apdo.:865-8813 Tempus Ctra.</direccion>
+			<telefono>44572856</telefono>
+			<celular>76387439</celular>
+			<email>cursus@tortorInteger.net</email>
+			<depto>24</depto>
+			<limite_credito>6004.09</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>40967875322</NIT>
+			<nombre>Rowan</nombre>
+			<apellido>Figueroa</apellido>
+			<nacimiento>03/04/2015</nacimiento>
+			<direccion>Apdo.:710-1659 Fusce </direccion>
+			<telefono>60876439</telefono>
+			<celular>36765423</celular>
+			<email>Donec@vulputatenisi.net</email>
+			<depto>3</depto>
+			<limite_credito>5088.10</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4465582483K</NIT>
+			<nombre>Lawrence</nombre>
+			<apellido>Duncan</apellido>
+			<nacimiento>09/07/2013</nacimiento>
+			<direccion>Apdo.:424-2646 Non Avda.</direccion>
+			<telefono>52450184</telefono>
+			<celular>62225838</celular>
+			<email>luctus@a.ca</email>
+			<depto>7</depto>
+			<limite_credito>2229.62</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>09502520404</NIT>
+			<nombre>Vaughan</nombre>
+			<apellido>Wade</apellido>
+			<nacimiento>14/05/2014</nacimiento>
+			<direccion>Apartado num.: 291, 2901 Feugiat Carretera</direccion>
+			<telefono>32463222</telefono>
+			<celular>99647568</celular>
+			<email>Duis.a@miac.edu</email>
+			<depto>4</depto>
+			<limite_credito>5133.22</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>50636388938</NIT>
+			<nombre>Brendan</nombre>
+			<apellido>Reynolds</apellido>
+			<nacimiento>08/06/2014</nacimiento>
+			<direccion>2260 Nulla Calle</direccion>
+			<telefono>64457118</telefono>
+			<celular>67204801</celular>
+			<email>Nullam.ut.nisi@vitae.com</email>
+			<depto>8</depto>
+			<limite_credito>5881.64</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>3541565579D</NIT>
+			<nombre>Charity</nombre>
+			<apellido>Curtis</apellido>
+			<nacimiento>04/04/2014</nacimiento>
+			<direccion>Apdo.:295-8864 Ornare C/</direccion>
+			<telefono>61377448</telefono>
+			<celular>31897488</celular>
+			<email>vestibulum@Duisat.com</email>
+			<depto>15</depto>
+			<limite_credito>7762.02</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>65411838765</NIT>
+			<nombre>Zachary</nombre>
+			<apellido>Clayton</apellido>
+			<nacimiento>19/11/2013</nacimiento>
+			<direccion>Apartado num.: 613, 7470 Metus. C.</direccion>
+			<telefono>78394132</telefono>
+			<celular>44835116</celular>
+			<email>ullamcorper@Suspendissealiquetmolestie.com</email>
+			<depto>22</depto>
+			<limite_credito>3069.05</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>05307410684</NIT>
+			<nombre>Oscar</nombre>
+			<apellido>Hubbard</apellido>
+			<nacimiento>16/06/2013</nacimiento>
+			<direccion>Apdo.:347-6951 Nec C.</direccion>
+			<telefono>97127875</telefono>
+			<celular>52824281</celular>
+			<email>vitae.diam.Proin@duiaugueeu.org</email>
+			<depto>13</depto>
+			<limite_credito>1448.76</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>10063746275</NIT>
+			<nombre>Hope</nombre>
+			<apellido>Hebert</apellido>
+			<nacimiento>12/06/2015</nacimiento>
+			<direccion>Apdo.:643-278 Augue Avenida</direccion>
+			<telefono>07539749</telefono>
+			<celular>23053426</celular>
+			<email>nunc@porttitor.co.uk</email>
+			<depto>15</depto>
+			<limite_credito>2884.32</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>99290556255</NIT>
+			<nombre>Danielle</nombre>
+			<apellido>Clayton</apellido>
+			<nacimiento>15/08/2015</nacimiento>
+			<direccion>217-1421 Neque C.</direccion>
+			<telefono>15321419</telefono>
+			<celular>96859896</celular>
+			<email>at.pretium.aliquet@Curae.com</email>
+			<depto>16</depto>
+			<limite_credito>9104.05</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>51258432075</NIT>
+			<nombre>Kirestin</nombre>
+			<apellido>Stuart</apellido>
+			<nacimiento>29/01/2015</nacimiento>
+			<direccion>7278 Donec Carretera</direccion>
+			<telefono>70972247</telefono>
+			<celular>65931317</celular>
+			<email>pharetra.ut@Nullaeu.co.uk</email>
+			<depto>23</depto>
+			<limite_credito>7792.99</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>0215724910S</NIT>
+			<nombre>Coby</nombre>
+			<apellido>Mcguire</apellido>
+			<nacimiento>14/04/2014</nacimiento>
+			<direccion>844-5655 Nulla C.</direccion>
+			<telefono>94558030</telefono>
+			<celular>49144065</celular>
+			<email>sodales.purus.in@rhoncusid.com</email>
+			<depto>20</depto>
+			<limite_credito>3876.99</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>69953055449</NIT>
+			<nombre>Devin</nombre>
+			<apellido>Strickland</apellido>
+			<nacimiento>18/08/2014</nacimiento>
+			<direccion>Apdo.:867-7581 Nisi C.</direccion>
+			<telefono>00170036</telefono>
+			<celular>10895535</celular>
+			<email>justo.eu.arcu@amet.edu</email>
+			<depto>11</depto>
+			<limite_credito>6955.02</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5246768533E</NIT>
+			<nombre>Mason</nombre>
+			<apellido>Dale</apellido>
+			<nacimiento>28/02/2015</nacimiento>
+			<direccion>8926 Quis, </direccion>
+			<telefono>48040174</telefono>
+			<celular>03184334</celular>
+			<email>semper.egestas.urna@lectus.edu</email>
+			<depto>15</depto>
+			<limite_credito>6953.68</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>72658637028</NIT>
+			<nombre>Phillip</nombre>
+			<apellido>Leblanc</apellido>
+			<nacimiento>27/01/2015</nacimiento>
+			<direccion>380-3278 Integer Ctra.</direccion>
+			<telefono>77244466</telefono>
+			<celular>01679661</celular>
+			<email>sagittis@erateget.edu</email>
+			<depto>5</depto>
+			<limite_credito>6375.20</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>74268354663</NIT>
+			<nombre>Logan</nombre>
+			<apellido>Duran</apellido>
+			<nacimiento>10/02/2015</nacimiento>
+			<direccion>Apartado num.: 185, 4507 Eleifend 
+
+	Carretera</direccion>
+			<telefono>15280594</telefono>
+			<celular>66455779</celular>
+			<email>mollis.Integer@mollis.ca</email>
+			<depto>8</depto>
+			<limite_credito>9293.63</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>6110788142B</NIT>
+			<nombre>Oprah</nombre>
+			<apellido>Wright</apellido>
+			<nacimiento>10/10/2013</nacimiento>
+			<direccion>2806 Ut Calle</direccion>
+			<telefono>15505199</telefono>
+			<celular>78697278</celular>
+			<email>ligula.consectetuer@duiCum.org</email>
+			<depto>18</depto>
+			<limite_credito>3073.40</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>9330595868B</NIT>
+			<nombre>Angela</nombre>
+			<apellido>Reilly</apellido>
+			<nacimiento>16/12/2013</nacimiento>
+			<direccion>5896 Et C.</direccion>
+			<telefono>54226147</telefono>
+			<celular>59450948</celular>
+			<email>magnis.dis@mauriserat.net</email>
+			<depto>20</depto>
+			<limite_credito>1879.16</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>84871548173</NIT>
+			<nombre>Chava</nombre>
+			<apellido>Valenzuela</apellido>
+			<nacimiento>16/03/2015</nacimiento>
+			<direccion>7749 Eu Avda.</direccion>
+			<telefono>17663655</telefono>
+			<celular>98313912</celular>
+			<email>convallis@Aenean.net</email>
+			<depto>7</depto>
+			<limite_credito>2880.01</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>02767915284</NIT>
+			<nombre>Sawyer</nombre>
+			<apellido>Rowe</apellido>
+			<nacimiento>07/06/2014</nacimiento>
+			<direccion>111-339 Montes, Avda.</direccion>
+			<telefono>79468096</telefono>
+			<celular>36015638</celular>
+			<email>Nam.ac@Craseutellus.net</email>
+			<depto>11</depto>
+			<limite_credito>916.08</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>39812905441</NIT>
+			<nombre>Jolene</nombre>
+			<apellido>Holman</apellido>
+			<nacimiento>03/07/2014</nacimiento>
+			<direccion>8660 Magna. C.</direccion>
+			<telefono>00611360</telefono>
+			<celular>36301944</celular>
+			<email>id.blandit@Curabituregestasnunc.co.uk</email>
+			<depto>6</depto>
+			<limite_credito>1728.58</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4178269675I</NIT>
+			<nombre>Irene</nombre>
+			<apellido>Knight</apellido>
+			<nacimiento>26/11/2014</nacimiento>
+			<direccion>Apartado num.: 299, 916 Habitant Calle</direccion>
+			<telefono>42604321</telefono>
+			<celular>90525586</celular>
+			<email>dictum@hendrerit.co.uk</email>
+			<depto>4</depto>
+			<limite_credito>7657.20</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>6470799150N</NIT>
+			<nombre>Lacota</nombre>
+			<apellido>Kirby</apellido>
+			<nacimiento>16/07/2013</nacimiento>
+			<direccion>6180 Laoreet Calle</direccion>
+			<telefono>68754629</telefono>
+			<celular>13403564</celular>
+			<email>metus.vitae@tempus.com</email>
+			<depto>7</depto>
+			<limite_credito>4035.50</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>96695533691</NIT>
+			<nombre>Francesca</nombre>
+			<apellido>Cantrell</apellido>
+			<nacimiento>06/06/2013</nacimiento>
+			<direccion>Apartado num.: 727, 7907 A Ctra.</direccion>
+			<telefono>43543389</telefono>
+			<celular>56229693</celular>
+			<email>imperdiet@ultrices.edu</email>
+			<depto>19</depto>
+			<limite_credito>2861.98</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>1071180196L</NIT>
+			<nombre>Violet</nombre>
+			<apellido>Mills</apellido>
+			<nacimiento>07/10/2013</nacimiento>
+			<direccion>Apartado num.: 962, 1299 Sit Calle</direccion>
+			<telefono>12647709</telefono>
+			<celular>39541246</celular>
+			<email>dictum.mi@nulla.com</email>
+			<depto>14</depto>
+			<limite_credito>8508.81</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>7815198937U</NIT>
+			<nombre>Jayme</nombre>
+			<apellido>Sykes</apellido>
+			<nacimiento>14/02/2013</nacimiento>
+			<direccion>226-3596 Arcu. Av.</direccion>
+			<telefono>19893272</telefono>
+			<celular>92694077</celular>
+			<email>quam.quis.diam@et.co.uk</email>
+			<depto>15</depto>
+			<limite_credito>109.21</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>83949146425</NIT>
+			<nombre>Dora</nombre>
+			<apellido>Cabrera</apellido>
+			<nacimiento>14/10/2014</nacimiento>
+			<direccion>Apdo.:305-8023 Sem. Calle</direccion>
+			<telefono>73201107</telefono>
+			<celular>53180444</celular>
+			<email>rhoncus.Proin.nisl@maurisMorbinon.ca</email>
+			<depto>22</depto>
+			<limite_credito>4961.89</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>2703715634X</NIT>
+			<nombre>Dahlia</nombre>
+			<apellido>Leach</apellido>
+			<nacimiento>24/01/2013</nacimiento>
+			<direccion>Apdo.:651-2665 Lectus Av.</direccion>
+			<telefono>26339229</telefono>
+			<celular>79000784</celular>
+			<email>mauris.id.sapien@non.net</email>
+			<depto>18</depto>
+			<limite_credito>2215.82</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>17084442193</NIT>
+			<nombre>Cairo</nombre>
+			<apellido>Dunn</apellido>
+			<nacimiento>27/12/2013</nacimiento>
+			<direccion>Apdo.:641-9474 Ut Calle</direccion>
+			<telefono>59872331</telefono>
+			<celular>89182265</celular>
+			<email>nascetur.ridiculus@egestasa.org</email>
+			<depto>8</depto>
+			<limite_credito>8059.25</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>3388034519K</NIT>
+			<nombre>Suki</nombre>
+			<apellido>Parrish</apellido>
+			<nacimiento>21/04/2015</nacimiento>
+			<direccion>Apartado num.: 686, 7895 Orci Ctra.</direccion>
+			<telefono>01424183</telefono>
+			<celular>91854050</celular>
+			<email>et.magnis@pedeCras.edu</email>
+			<depto>21</depto>
+			<limite_credito>6551.99</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5126463848A</NIT>
+			<nombre>Lucas</nombre>
+			<apellido>Haley</apellido>
+			<nacimiento>27/02/2014</nacimiento>
+			<direccion>Apartado num.: 985, 7027 Velit Carretera</direccion>
+			<telefono>61442272</telefono>
+			<celular>03609668</celular>
+			<email>Cum.sociis@adipiscing.com</email>
+			<depto>3</depto>
+			<limite_credito>6445.00</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>23017638051</NIT>
+			<nombre>Zenaida</nombre>
+			<apellido>Ball</apellido>
+			<nacimiento>06/03/2014</nacimiento>
+			<direccion>Apdo.:463-6505 Vel Avenida</direccion>
+			<telefono>38145183</telefono>
+			<celular>29247525</celular>
+			<email>morbi@ac.com</email>
+			<depto>20</depto>
+			<limite_credito>7198.08</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5541033548V</NIT>
+			<nombre>Malik</nombre>
+			<apellido>Turner</apellido>
+			<nacimiento>02/03/2015</nacimiento>
+			<direccion>207-8704 Id, C/</direccion>
+			<telefono>15179336</telefono>
+			<celular>69587770</celular>
+			<email>vestibulum.nec.euismod@Suspendisseacmetus.com</email>
+			<depto>9</depto>
+			<limite_credito>1967.37</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>3106812795O</NIT>
+			<nombre>Jesse</nombre>
+			<apellido>Martin</apellido>
+			<nacimiento>14/12/2013</nacimiento>
+			<direccion>Apartado num.: 181, 5283 Felis, Avenida</direccion>
+			<telefono>47976028</telefono>
+			<celular>15980118</celular>
+			<email>est.Nunc.ullamcorper@Donecporttitortellus.co.uk</email>
+			<depto>1</depto>
+			<limite_credito>1928.93</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>7380881887Z</NIT>
+			<nombre>Hyacinth</nombre>
+			<apellido>Daniels</apellido>
+			<nacimiento>27/02/2013</nacimiento>
+			<direccion>1363 Vitae C/</direccion>
+			<telefono>63475566</telefono>
+			<celular>32083415</celular>
+			<email>ridiculus@Nuncmaurissapien.org</email>
+			<depto>17</depto>
+			<limite_credito>8948.35</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>7537943873C</NIT>
+			<nombre>Macaulay</nombre>
+			<apellido>Oneill</apellido>
+			<nacimiento>16/01/2013</nacimiento>
+			<direccion>504-6144 Elit. Calle</direccion>
+			<telefono>29011168</telefono>
+			<celular>82071273</celular>
+			<email>montes.nascetur@eget.co.uk</email>
+			<depto>3</depto>
+			<limite_credito>6626.05</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>2152838927M</NIT>
+			<nombre>Orson</nombre>
+			<apellido>Kirby</apellido>
+			<nacimiento>21/08/2015</nacimiento>
+			<direccion>3543 Mus. </direccion>
+			<telefono>82204183</telefono>
+			<celular>82242961</celular>
+			<email>non.lorem@mauriserateget.ca</email>
+			<depto>6</depto>
+			<limite_credito>2944.41</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>17621731244</NIT>
+			<nombre>Sasha</nombre>
+			<apellido>Monroe</apellido>
+			<nacimiento>14/07/2014</nacimiento>
+			<direccion>576-7408 Mattis Avda.</direccion>
+			<telefono>91725306</telefono>
+			<celular>48623184</celular>
+			<email>placerat@erat.edu</email>
+			<depto>24</depto>
+			<limite_credito>6771.21</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>1944088771J</NIT>
+			<nombre>Sigourney</nombre>
+			<apellido>Barber</apellido>
+			<nacimiento>08/06/2015</nacimiento>
+			<direccion>Apartado num.: 860, 2869 Arcu. Ctra.</direccion>
+			<telefono>89649624</telefono>
+			<celular>79916893</celular>
+			<email>sapien.Nunc.pulvinar@vel.com</email>
+			<depto>17</depto>
+			<limite_credito>5974.55</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>03092599438</NIT>
+			<nombre>Bevis</nombre>
+			<apellido>Duran</apellido>
+			<nacimiento>27/02/2014</nacimiento>
+			<direccion>867-8160 Sit </direccion>
+			<telefono>70605934</telefono>
+			<celular>26455606</celular>
+			<email>nec@erat.ca</email>
+			<depto>9</depto>
+			<limite_credito>6115.21</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>1470977304J</NIT>
+			<nombre>Garth</nombre>
+			<apellido>Powers</apellido>
+			<nacimiento>23/03/2013</nacimiento>
+			<direccion>989-4148 Ut Carretera</direccion>
+			<telefono>69410552</telefono>
+			<celular>39674847</celular>
+			<email>lectus.Nullam.suscipit@consectetuermauris.net</email>
+			<depto>20</depto>
+			<limite_credito>3706.89</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4605586278F</NIT>
+			<nombre>Thane</nombre>
+			<apellido>Pugh</apellido>
+			<nacimiento>28/09/2013</nacimiento>
+			<direccion>191-1292 Lectus Ctra.</direccion>
+			<telefono>65267202</telefono>
+			<celular>70095112</celular>
+			<email>lorem@nibhQuisque.ca</email>
+			<depto>1</depto>
+			<limite_credito>5666.83</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>0083234034I</NIT>
+			<nombre>Macon</nombre>
+			<apellido>Good</apellido>
+			<nacimiento>23/07/2014</nacimiento>
+			<direccion>922-385 Sem Avda.</direccion>
+			<telefono>24862057</telefono>
+			<celular>79679346</celular>
+			<email>ipsum@musDonec.org</email>
+			<depto>12</depto>
+			<limite_credito>6548.09</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>7933868688F</NIT>
+			<nombre>Rana</nombre>
+			<apellido>Fuentes</apellido>
+			<nacimiento>22/07/2013</nacimiento>
+			<direccion>Apartado num.: 927, 9172 Tincidunt Av.</direccion>
+			<telefono>22552696</telefono>
+			<celular>67388694</celular>
+			<email>Praesent.eu.dui@Morbimetus.co.uk</email>
+			<depto>4</depto>
+			<limite_credito>5019.34</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>06761742322</NIT>
+			<nombre>Fay</nombre>
+			<apellido>Frederick</apellido>
+			<nacimiento>18/05/2015</nacimiento>
+			<direccion>Apdo.:156-1184 Consectetuer Ctra.</direccion>
+			<telefono>05278736</telefono>
+			<celular>65650554</celular>
+			<email>pellentesque.tellus@non.co.uk</email>
+			<depto>1</depto>
+			<limite_credito>1215.42</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>6418542432N</NIT>
+			<nombre>Seth</nombre>
+			<apellido>Lowery</apellido>
+			<nacimiento>28/03/2014</nacimiento>
+			<direccion>Apdo.:966-4937 In </direccion>
+			<telefono>15508710</telefono>
+			<celular>46638260</celular>
+			<email>dolor.egestas.rhoncus@utmiDuis.edu</email>
+			<depto>2</depto>
+			<limite_credito>2866.14</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>8225573751D</NIT>
+			<nombre>Raphael</nombre>
+			<apellido>Strong</apellido>
+			<nacimiento>22/08/2013</nacimiento>
+			<direccion>1025 Non, Calle</direccion>
+			<telefono>85578792</telefono>
+			<celular>90074865</celular>
+			<email>diam@lacusCras.ca</email>
+			<depto>10</depto>
+			<limite_credito>4566.25</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5847489180D</NIT>
+			<nombre>Reuben</nombre>
+			<apellido>Hatfield</apellido>
+			<nacimiento>12/09/2013</nacimiento>
+			<direccion>Apdo.:319-6547 Risus. C/</direccion>
+			<telefono>51098744</telefono>
+			<celular>57765944</celular>
+			<email>tincidunt@blanditviverra.org</email>
+			<depto>9</depto>
+			<limite_credito>6429.18</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>8732023989I</NIT>
+			<nombre>Tasha</nombre>
+			<apellido>Buchanan</apellido>
+			<nacimiento>03/03/2015</nacimiento>
+			<direccion>Apdo.:368-8578 Semper C/</direccion>
+			<telefono>41354472</telefono>
+			<celular>13935585</celular>
+			<email>purus.in@tortor.net</email>
+			<depto>7</depto>
+			<limite_credito>3778.28</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>0247242051N</NIT>
+			<nombre>Fredericka</nombre>
+			<apellido>Vega</apellido>
+			<nacimiento>01/07/2014</nacimiento>
+			<direccion>8609 Bibendum C/</direccion>
+			<telefono>52514773</telefono>
+			<celular>42698342</celular>
+			<email>dui@elitsedconsequat.com</email>
+			<depto>9</depto>
+			<limite_credito>1793.98</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>11148608346</NIT>
+			<nombre>Daria</nombre>
+			<apellido>Hunt</apellido>
+			<nacimiento>11/10/2013</nacimiento>
+			<direccion>Apartado num.: 577, 6461 Ornare Avda.</direccion>
+			<telefono>14569991</telefono>
+			<celular>11200335</celular>
+			<email>Proin.vel@Integeridmagna.co.uk</email>
+			<depto>11</depto>
+			<limite_credito>4960.85</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>8250328244T</NIT>
+			<nombre>Kalia</nombre>
+			<apellido>Boyer</apellido>
+			<nacimiento>10/02/2015</nacimiento>
+			<direccion>6338 Lobortis Ctra.</direccion>
+			<telefono>42967607</telefono>
+			<celular>96771226</celular>
+			<email>amet.ultricies.sem@neccursus.co.uk</email>
+			<depto>19</depto>
+			<limite_credito>8171.54</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>23362706706</NIT>
+			<nombre>Aaron</nombre>
+			<apellido>Richardson</apellido>
+			<nacimiento>27/02/2015</nacimiento>
+			<direccion>2674 Aliquet Avda.</direccion>
+			<telefono>96850350</telefono>
+			<celular>33014598</celular>
+			<email>rutrum@augueporttitorinterdum.org</email>
+			<depto>10</depto>
+			<limite_credito>2093.18</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>1266933453Z</NIT>
+			<nombre>Alana</nombre>
+			<apellido>Bryant</apellido>
+			<nacimiento>18/08/2014</nacimiento>
+			<direccion>604-2405 Velit Ctra.</direccion>
+			<telefono>77893218</telefono>
+			<celular>11592194</celular>
+			<email>metus.vitae@cursusdiamat.ca</email>
+			<depto>11</depto>
+			<limite_credito>6747.65</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>74860808250</NIT>
+			<nombre>Carl</nombre>
+			<apellido>Whitehead</apellido>
+			<nacimiento>06/02/2015</nacimiento>
+			<direccion>4708 Enim. Av.</direccion>
+			<telefono>13942962</telefono>
+			<celular>10391371</celular>
+			<email>sed@Donecsollicitudin.com</email>
+			<depto>13</depto>
+			<limite_credito>8074.76</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>02246378415</NIT>
+			<nombre>Dante</nombre>
+			<apellido>Carey</apellido>
+			<nacimiento>09/02/2015</nacimiento>
+			<direccion>9181 Magna. Av.</direccion>
+			<telefono>46611348</telefono>
+			<celular>82759036</celular>
+			<email>Donec.est.mauris@risusvarius.edu</email>
+			<depto>1</depto>
+			<limite_credito>5061.45</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>95722760412</NIT>
+			<nombre>Salvador</nombre>
+			<apellido>Gibson</apellido>
+			<nacimiento>08/09/2015</nacimiento>
+			<direccion>2349 Non Carretera</direccion>
+			<telefono>22957830</telefono>
+			<celular>22384973</celular>
+			<email>metus@semutcursus.net</email>
+			<depto>20</depto>
+			<limite_credito>5922.55</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>6157433826E</NIT>
+			<nombre>Leila</nombre>
+			<apellido>Nichols</apellido>
+			<nacimiento>29/03/2014</nacimiento>
+			<direccion>5121 Tempus Avda.</direccion>
+			<telefono>89252623</telefono>
+			<celular>51474060</celular>
+			<email>malesuada.fringilla@inceptos.ca</email>
+			<depto>6</depto>
+			<limite_credito>3039.65</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>7424722125L</NIT>
+			<nombre>Nelle</nombre>
+			<apellido>Wade</apellido>
+			<nacimiento>20/10/2014</nacimiento>
+			<direccion>Apartado num.: 922, 5284 Non, Av.</direccion>
+			<telefono>88925331</telefono>
+			<celular>55283691</celular>
+			<email>lobortis.ultrices@adipiscing.net</email>
+			<depto>12</depto>
+			<limite_credito>6763.22</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>7443852969V</NIT>
+			<nombre>Kennedy</nombre>
+			<apellido>Burnett</apellido>
+			<nacimiento>10/09/2014</nacimiento>
+			<direccion>Apartado num.: 412, 8301 Enim C.</direccion>
+			<telefono>42914099</telefono>
+			<celular>44377048</celular>
+			<email>Quisque.porttitor@orciluctuset.com</email>
+			<depto>11</depto>
+			<limite_credito>6136.57</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5619431631S</NIT>
+			<nombre>Kendall</nombre>
+			<apellido>Norman</apellido>
+			<nacimiento>04/11/2013</nacimiento>
+			<direccion>523 Sed C.</direccion>
+			<telefono>36825159</telefono>
+			<celular>91439721</celular>
+			<email>Praesent@aliquet.org</email>
+			<depto>19</depto>
+			<limite_credito>6336.26</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>99782724448</NIT>
+			<nombre>Isabella</nombre>
+			<apellido>Wagner</apellido>
+			<nacimiento>25/09/2014</nacimiento>
+			<direccion>306-6402 Enim Avda.</direccion>
+			<telefono>95771994</telefono>
+			<celular>69977501</celular>
+			<email>montes@dis.co.uk</email>
+			<depto>11</depto>
+			<limite_credito>9077.91</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>9913853241Q</NIT>
+			<nombre>Shay</nombre>
+			<apellido>Beach</apellido>
+			<nacimiento>17/02/2015</nacimiento>
+			<direccion>Apdo.:173-875 Neque. Carretera</direccion>
+			<telefono>05483016</telefono>
+			<celular>22669129</celular>
+			<email>Integer.aliquam.adipiscing@elit.net</email>
+			<depto>3</depto>
+			<limite_credito>2645.14</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>82059471237</NIT>
+			<nombre>Noelani</nombre>
+			<apellido>Kline</apellido>
+			<nacimiento>26/12/2014</nacimiento>
+			<direccion>Apdo.:121-6857 Ut Calle</direccion>
+			<telefono>36632195</telefono>
+			<celular>28240537</celular>
+			<email>ut.eros.non@aliquetdiam.com</email>
+			<depto>19</depto>
+			<limite_credito>7178.18</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>9440008821U</NIT>
+			<nombre>Brody</nombre>
+			<apellido>Hammond</apellido>
+			<nacimiento>16/11/2013</nacimiento>
+			<direccion>571-864 Pede C.</direccion>
+			<telefono>89251219</telefono>
+			<celular>73601028</celular>
+			<email>luctus.lobortis@nisidictumaugue.net</email>
+			<depto>7</depto>
+			<limite_credito>4027.46</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>32358709101</NIT>
+			<nombre>Alexis</nombre>
+			<apellido>Horne</apellido>
+			<nacimiento>18/02/2013</nacimiento>
+			<direccion>636-9737 In C/</direccion>
+			<telefono>54119271</telefono>
+			<celular>50597682</celular>
+			<email>et.pede.Nunc@metus.org</email>
+			<depto>16</depto>
+			<limite_credito>5524.76</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>71502929652</NIT>
+			<nombre>Jennifer</nombre>
+			<apellido>Whitfield</apellido>
+			<nacimiento>25/01/2013</nacimiento>
+			<direccion>Apdo.:100-4842 Vestibulum Calle</direccion>
+			<telefono>66214124</telefono>
+			<celular>73872967</celular>
+			<email>nostra@Nullasempertellus.net</email>
+			<depto>8</depto>
+			<limite_credito>1714.14</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>4308340249L</NIT>
+			<nombre>Garth</nombre>
+			<apellido>Barry</apellido>
+			<nacimiento>07/02/2014</nacimiento>
+			<direccion>Apdo.:127-299 Dictum Av.</direccion>
+			<telefono>77009998</telefono>
+			<celular>01654173</celular>
+			<email>lacus@necante.com</email>
+			<depto>22</depto>
+			<limite_credito>7211.72</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>1681428648M</NIT>
+			<nombre>Vaughan</nombre>
+			<apellido>Albert</apellido>
+			<nacimiento>30/03/2015</nacimiento>
+			<direccion>492-7303 A Carretera</direccion>
+			<telefono>62646795</telefono>
+			<celular>96864748</celular>
+			<email>Fusce.dolor@sempereratin.net</email>
+			<depto>1</depto>
+			<limite_credito>2519.19</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5874579512O</NIT>
+			<nombre>Ariana</nombre>
+			<apellido>Paul</apellido>
+			<nacimiento>07/08/2013</nacimiento>
+			<direccion>Apdo.:884-2143 Phasellus C/</direccion>
+			<telefono>90306832</telefono>
+			<celular>34685870</celular>
+			<email>egestas@primisinfaucibus.org</email>
+			<depto>20</depto>
+			<limite_credito>482.60</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>2300471218Z</NIT>
+			<nombre>Ursa</nombre>
+			<apellido>Dalton</apellido>
+			<nacimiento>12/05/2013</nacimiento>
+			<direccion>5890 Aenean Ctra.</direccion>
+			<telefono>33013227</telefono>
+			<celular>96643528</celular>
+			<email>est.ac@etmagnisdis.edu</email>
+			<depto>14</depto>
+			<limite_credito>6671.67</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>01226791261</NIT>
+			<nombre>Briar</nombre>
+			<apellido>Oneill</apellido>
+			<nacimiento>11/02/2015</nacimiento>
+			<direccion>Apartado num.: 164, 3355 Purus, Avda.</direccion>
+			<telefono>86311293</telefono>
+			<celular>36961415</celular>
+			<email>nunc@ut.ca</email>
+			<depto>3</depto>
+			<limite_credito>5275.44</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>3574983260I</NIT>
+			<nombre>Phillip</nombre>
+			<apellido>Velasquez</apellido>
+			<nacimiento>16/09/2014</nacimiento>
+			<direccion>127-2862 Eget Av.</direccion>
+			<telefono>99809198</telefono>
+			<celular>60223892</celular>
+			<email>amet@nisi.ca</email>
+			<depto>20</depto>
+			<limite_credito>4975.08</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>81530888135</NIT>
+			<nombre>Isabelle</nombre>
+			<apellido>Abbott</apellido>
+			<nacimiento>25/02/2013</nacimiento>
+			<direccion>1275 Mattis C/</direccion>
+			<telefono>51263006</telefono>
+			<celular>71701782</celular>
+			<email>Nullam.suscipit@elitNullafacilisi.com</email>
+			<depto>2</depto>
+			<limite_credito>7080.84</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>50330383075</NIT>
+			<nombre>Damian</nombre>
+			<apellido>Haney</apellido>
+			<nacimiento>23/06/2013</nacimiento>
+			<direccion>992-2813 Rutrum Avda.</direccion>
+			<telefono>88169713</telefono>
+			<celular>37484390</celular>
+			<email>hendrerit.a@uterosnon.org</email>
+			<depto>19</depto>
+			<limite_credito>3467.66</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>63210754587</NIT>
+			<nombre>Xavier</nombre>
+			<apellido>Mclean</apellido>
+			<nacimiento>15/03/2014</nacimiento>
+			<direccion>Apartado num.: 577, 6087 Eget Avenida</direccion>
+			<telefono>31987444</telefono>
+			<celular>72563458</celular>
+			<email>Morbi.non.sapien@lobortis.co.uk</email>
+			<depto>7</depto>
+			<limite_credito>815.54</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5691692170Q</NIT>
+			<nombre>Cally</nombre>
+			<apellido>Moody</apellido>
+			<nacimiento>24/05/2015</nacimiento>
+			<direccion>375-4535 Tortor, C/</direccion>
+			<telefono>87552657</telefono>
+			<celular>79333875</celular>
+			<email>ullamcorper.Duis.at@libero.org</email>
+			<depto>21</depto>
+			<limite_credito>336.90</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5790997548F</NIT>
+			<nombre>Bertha</nombre>
+			<apellido>Ellison</apellido>
+			<nacimiento>12/08/2013</nacimiento>
+			<direccion>825-8276 Molestie Calle</direccion>
+			<telefono>26588481</telefono>
+			<celular>06145918</celular>
+			<email>ut.sem.Nulla@etmagnisdis.edu</email>
+			<depto>5</depto>
+			<limite_credito>4125.38</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>61739800681</NIT>
+			<nombre>Lillian</nombre>
+			<apellido>Trujillo</apellido>
+			<nacimiento>26/05/2014</nacimiento>
+			<direccion>Apartado num.: 205, 7201 Accumsan Avda.</direccion>
+			<telefono>30025369</telefono>
+			<celular>40262468</celular>
+			<email>dui@eu.ca</email>
+			<depto>17</depto>
+			<limite_credito>3617.67</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>5469633389I</NIT>
+			<nombre>Sarah</nombre>
+			<apellido>Boone</apellido>
+			<nacimiento>19/04/2013</nacimiento>
+			<direccion>Apartado num.: 119, 2633 Odio. Av.</direccion>
+			<telefono>01781162</telefono>
+			<celular>13845902</celular>
+			<email>nulla@ipsumcursusvestibulum.ca</email>
+			<depto>23</depto>
+			<limite_credito>1979.36</limite_credito>
+		</cliente>
+		<cliente>
+			<NIT>24900309003</NIT>
+			<nombre>Regan</nombre>
+			<apellido>Ruiz</apellido>
+			<nacimiento>07/12/2014</nacimiento>
+			<direccion>6728 Sem Avenida</direccion>
+			<telefono>26397976</telefono>
+			<celular>58059797</celular>
+			<email>at.arcu@at.net</email>
+			<depto>9</depto>
+			<limite_credito>6328.85</limite_credito>
+		</cliente>
+	</clientes>
+	<empleados>
+		<empleado>
+			<codigo>100</codigo>
+			<NIT>1948776239N</NIT>
+			<nombre>Gareth May</nombre>
+			<apellido>Wallace Oneill</apellido>
+			<nacimiento>08/11/2014</nacimiento>
+			<direccion>2117 Purus Av.</direccion>
+			<telefono>81221591</telefono>
+			<celular>74788074</celular>
+			<email>justo.faucibus.lectus@CrasinterdumNunc.ca</email>
+			<usuario>Gareth1</usuario>
+			<contrasena>201</contrasena>
+			<puesto>Gerente</puesto>
+			<codigo_jefe>114</codigo_jefe>
+			<codigo_jefe>117</codigo_jefe>
+			<codigo_jefe>118</codigo_jefe>
+			<codigo_jefe>125</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>101</codigo>
+			<NIT>2732030147G</NIT>
+			<nombre>Tatiana Florence</nombre>
+			<apellido>Tran Soto</apellido>
+			<nacimiento>18/07/2013</nacimiento>
+			<direccion>Apdo.:418-7608 Curabitur Calle</direccion>
+			<telefono>68713373</telefono>
+			<celular>03679639</celular>
+			<email>condimentum.eget.volutpat@ipsum.co.uk</email>
+			<usuario>Tatiana2</usuario>
+			<contrasena>202</contrasena>
+			<puesto>Gerente</puesto>
+			<codigo_jefe>115</codigo_jefe>
+			<codigo_jefe>120</codigo_jefe>
+			<codigo_jefe>121</codigo_jefe>
+			<codigo_jefe>122</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>102</codigo>
+			<NIT>9483599952O</NIT>
+			<nombre>Blossom Alfonso</nombre>
+			<apellido>Gonzalez Gordon</apellido>
+			<nacimiento>13/05/2014</nacimiento>
+			<direccion>Apartado núm.: 160, 4986 Ultrices Avenida</direccion>
+			<telefono>39527730</telefono>
+			<celular>51634507</celular>
+			<email>Curabitur@diamvel.net</email>
+			<puesto>Gerente</puesto>
+			<codigo_jefe>116</codigo_jefe>
+			<codigo_jefe>123</codigo_jefe>
+			<codigo_jefe>124</codigo_jefe>
+		</empleado>
+		 <empleado>
+			<codigo>114</codigo>
+			<NIT>09327741997</NIT>
+			<nombre>Hamish Astra</nombre>
+			<apellido>Valencia Peterson</apellido>
+			<nacimiento>19/04/2015</nacimiento>
+			<direccion>150-168 Gravida. C.</direccion>
+			<telefono>00118759</telefono>
+			<celular>96261881</celular>
+			<email>tellus.Nunc.lectus@Suspendisse.edu</email>
+			<puesto>Administrador</puesto>
+		</empleado>
+		<empleado>
+			<codigo>115</codigo>
+			<NIT>46909477118</NIT>
+			<nombre>Haviva Sebastian</nombre>
+			<apellido>Rodgers Salinas</apellido>
+			<nacimiento>19/05/2015</nacimiento>
+			<direccion>Apartado núm.: 182, 6531 Sit Ctra.</direccion>
+			<telefono>36499470</telefono>
+			<celular>71469885</celular>
+			<email>sodales.Mauris@gravidamaurisut.edu</email>
+			<puesto>Administrador</puesto>
+		</empleado>
+		<empleado>
+			<codigo>116</codigo>
+			<NIT>6206623310R</NIT>
+			<nombre>Amery Cheyenne</nombre>
+			<apellido>Hayes Alvarez</apellido>
+			<nacimiento>03/03/2015</nacimiento>
+			<direccion>Apdo.:954-4957 Ac Avenida</direccion>
+			<telefono>83668594</telefono>
+			<celular>53794189</celular>
+			<email>Aenean.eget.magna@eget.net</email>
+			<puesto>Administrador</puesto>
+			
+		</empleado>
+		<empleado>
+			<codigo>117</codigo>
+			<NIT>15587111321</NIT>
+			<nombre>Danielle Lewis</nombre>
+			<apellido>Cantrell Farrell</apellido>
+			<nacimiento>21/09/2013</nacimiento>
+			<direccion>Apartado núm.: 866, 9898 Mauris </direccion>
+			<telefono>80482043</telefono>
+			<celular>93986447</celular>
+			<email>amet.ultricies@ligula.net</email>
+			<puesto>Administrador</puesto>
+		</empleado>
+		<empleado>
+			<codigo>118</codigo>
+			<NIT>5006418540G</NIT>
+			<nombre>Meredith Clarke</nombre>
+			<apellido>Castro Bray</apellido>
+			<nacimiento>04/03/2015</nacimiento>
+			<direccion>Apdo.:379-8606 Pellentesque Av.</direccion>
+			<telefono>13142836</telefono>
+			<celular>16552723</celular>
+			<email>Ut@aliquet.org</email>
+			<puesto>Administrador</puesto>	
+		</empleado>
+
+
+		<empleado>
+			<codigo>120</codigo>
+			<NIT>5014775179I</NIT>
+			<nombre>Mallory Sharon</nombre>
+			<apellido>Harrison Christensen</apellido>
+			<nacimiento>06/07/2014</nacimiento>
+			<direccion>5477 Sit C.</direccion>
+			<telefono>21985775</telefono>
+			<celular>45285826</celular>
+			<email>vitae.semper@hendreritnequeIn.ca</email>
+			<puesto>Supervisor</puesto>
+			<codigo_jefe>134</codigo_jefe>
+			<codigo_jefe>140</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>121</codigo>
+			<NIT>90136323850</NIT>
+			<nombre>Mariko Vielka</nombre>
+			<apellido>Haynes Hahn</apellido>
+			<nacimiento>13/09/2013</nacimiento>
+			<direccion>8920 Sit Avenida</direccion>
+			<telefono>57423476</telefono>
+			<celular>52794318</celular>
+			<email>turpis@libero.org</email>
+			<puesto>Supervisor</puesto>
+			<codigo_jefe>132</codigo_jefe>
+			<codigo_jefe>139</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>122</codigo>
+			<NIT>3985131414H</NIT>
+			<nombre>Giselle Maisie</nombre>
+			<apellido>Woods Melton</apellido>
+			<nacimiento>24/09/2013</nacimiento>
+			<direccion>887-8954 Malesuada C.</direccion>
+			<telefono>90844680</telefono>
+			<celular>56032944</celular>
+			<email>libero.Proin.mi@placerategetvenenatis.co.uk</email>
+			<puesto>Supervisor</puesto>
+			<codigo_jefe>136</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>123</codigo>
+			<NIT>64183345619</NIT>
+			<nombre>Evan Isabelle</nombre>
+			<apellido>Moody Conway</apellido>
+			<nacimiento>03/11/2013</nacimiento>
+			<direccion>584-2572 Hymenaeos. Carretera</direccion>
+			<telefono>50305105</telefono>
+			<celular>21593710</celular>
+			<email>Nam@commodo.edu</email>
+			<puesto>Supervisor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>124</codigo>
+			<NIT>81105322738</NIT>
+			<nombre>Dorian Rose</nombre>
+			<apellido>Grant Mercado</apellido>
+			<nacimiento>28/08/2013</nacimiento>
+			<direccion>Apartado núm.: 246, 4285 Penatibus Calle</direccion>
+			<telefono>60589427</telefono>
+			<celular>81264395</celular>
+			<email>rutrum@vitae.edu</email>
+			<puesto>Supervisor</puesto>
+			<codigo_jefe>133</codigo_jefe>
+			<codigo_jefe>137</codigo_jefe>
+			<codigo_jefe>138</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>125</codigo>
+			<NIT>21256458111</NIT>
+			<nombre>Aspen Stella</nombre>
+			<apellido>Cline Hendrix</apellido>
+			<nacimiento>08/06/2014</nacimiento>
+			<direccion>316-7374 Eget Avda.</direccion>
+			<telefono>45307586</telefono>
+			<celular>62423915</celular>
+			<email>luctus@Aliquam.ca</email>
+			<puesto>Supervisor</puesto>
+			<codigo_jefe>130</codigo_jefe>
+			<codigo_jefe>131</codigo_jefe>
+			<codigo_jefe>135</codigo_jefe>
+		</empleado>
+		<empleado>
+			<codigo>130</codigo>
+			<NIT>33220520103</NIT>
+			<nombre>Sydnee Quinn</nombre>
+			<apellido>Wells Green</apellido>
+			<nacimiento>13/07/2015</nacimiento>
+			<direccion>178-2338 Neque Calle</direccion>
+			<telefono>12458227</telefono>
+			<celular>92969484</celular>
+			<email>ullamcorper.magna.Sed@ultricies.edu</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>131</codigo>
+			<NIT>3188932336X</NIT>
+			<nombre>Colorado Graham</nombre>
+			<apellido>Brennan Cole</apellido>
+			<nacimiento>22/12/2013</nacimiento>
+			<direccion>Apartado núm.: 523, 3408 Elit Avenida</direccion>
+			<telefono>14099281</telefono>
+			<celular>52938080</celular>
+			<email>nibh@idenim.ca</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>132</codigo>
+			<NIT>6442437347O</NIT>
+			<nombre>Hashim Basil</nombre>
+			<apellido>Mcgee Orr</apellido>
+			<nacimiento>16/12/2013</nacimiento>
+			<direccion>Apdo.:347-8281 Ipsum Ctra.</direccion>
+			<telefono>67534661</telefono>
+			<celular>84506947</celular>
+			<email>aliquet.vel@eu.com</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>133</codigo>
+			<NIT>4796585874I</NIT>
+			<nombre>Brian Kadeem</nombre>
+			<apellido>Browning Allison</apellido>
+			<nacimiento>02/03/2015</nacimiento>
+			<direccion>374-7668 Eget C.</direccion>
+			<telefono>58628012</telefono>
+			<celular>01798546</celular>
+			<email>nonummy.ipsum.non@pretiumaliquetmetus.net</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>134</codigo>
+			<NIT>7640324928E</NIT>
+			<nombre>Lillith Isaiah</nombre>
+			<apellido>Odom Douglas</apellido>
+			<nacimiento>27/01/2015</nacimiento>
+			<direccion>Apartado núm.: 338, 4749 Sodales. Calle</direccion>
+			<telefono>85191297</telefono>
+			<celular>89729798</celular>
+			<email>volutpat.ornare.facilisis@accumsan.edu</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>135</codigo>
+			<NIT>10559406126</NIT>
+			<nombre>Harriet Carlos</nombre>
+			<apellido>Fischer Thornton</apellido>
+			<nacimiento>01/09/2013</nacimiento>
+			<direccion>Apartado núm.: 355, 6974 Cursus Ctra.</direccion>
+			<telefono>84024073</telefono>
+			<celular>43561809</celular>
+			<email>Nunc.mauris@orci.com</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>136</codigo>
+			<NIT>65580837917</NIT>
+			<nombre>Donna Freya</nombre>
+			<apellido>Sharp Davenport</apellido>
+			<nacimiento>28/05/2014</nacimiento>
+			<direccion>982-1355 Suspendisse Avenida</direccion>
+			<telefono>27354206</telefono>
+			<celular>17225674</celular>
+			<email>primis.in.faucibus@duiSuspendisseac.ca</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>137</codigo>
+			<NIT>1747793081R</NIT>
+			<nombre>Riley Malcolm</nombre>
+			<apellido>Rowland Whitfield</apellido>
+			<nacimiento>22/05/2014</nacimiento>
+			<direccion>160-4375 Accumsan Avenida</direccion>
+			<telefono>47252634</telefono>
+			<celular>84270687</celular>
+			<email>urna.nec@elita.edu</email>
+			<puesto>Vendedor</puesto>		
+		</empleado>
+		<empleado>
+			<codigo>138</codigo>
+			<NIT>55492892000</NIT>
+			<nombre>Casey Cassady</nombre>
+			<apellido>Wolfe Booker</apellido>
+			<nacimiento>22/03/2015</nacimiento>
+			<direccion>Apartado núm.: 994, 516 Molestie Avenida</direccion>
+			<telefono>55928545</telefono>
+			<celular>69447814</celular>
+			<email>ultrices.iaculis.odio@sempercursus.co.uk</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>139</codigo>
+			<NIT>1745256926W</NIT>
+			<nombre>Quintessa Orlando</nombre>
+			<apellido>Jacobs Ramirez</apellido>
+			<nacimiento>20/11/2014</nacimiento>
+			<direccion>Apdo.:410-4836 Eget, Calle</direccion>
+			<telefono>42839534</telefono>
+			<celular>22091176</celular>
+			<email>mauris.sapien@idrisusquis.net</email>
+			<puesto>Vendedor</puesto>
+		</empleado>
+		<empleado>
+			<codigo>140</codigo>
+			<NIT>17074582713</NIT>
+			<nombre>Orlando Magee</nombre>
+			<apellido>Rosales Jefferson</apellido>
+			<nacimiento>07/07/2015</nacimiento>
+			<direccion>Apartado núm.: 693, 370 Erat Avenida</direccion>
+			<telefono>17323755</telefono>
+			<celular>00647010</celular>
+			<email>dolor.quam.elementum@euligulaAenean.co.uk</email>
+			<puesto>Vendedor</puesto>		
+		</empleado>
+	</empleados>
+	<metas>
+		<meta>
+		<codigo>140</codigo>
+		<mes_meta> 11/2014</mes_meta> 
+		<detalle>
+			<item> 
+				<codigo_factura>10</codigo_factura> 
+				<meta_venta>100050.50</meta_venta>
+			</item>
+			<item> 
+				<codigo_factura>15</codigo_factura> 
+				<meta_venta>100050.50</meta_venta>
+			</item>
+	    	</detalle>
+		</meta> 
+	 	<meta>
+			<codigo>139</codigo>
+			<mes_meta> 11/2014</mes_meta> 
+			<detalle>
+				<item> 
+					<codigo_factura>1</codigo_factura> 
+					<meta_venta>100055.50</meta_venta>
+				</item>
+				<item> 
+					<codigo_factura>2</codigo_factura> 
+					<meta_venta>100055.50</meta_venta>
+				</item>
+	    		</detalle>
+		</meta>
+	</metas> 
+</definicion> 

@@ -1,0 +1,6 @@
+C:\Users\Leslie\documents\visual studio 2013\Projects\ProductosMagnificos\ProductosMagnificos\bin\ProductosMagnificos.dll.config
+C:\Users\Leslie\documents\visual studio 2013\Projects\ProductosMagnificos\ProductosMagnificos\bin\ProductosMagnificos.dll
+C:\Users\Leslie\documents\visual studio 2013\Projects\ProductosMagnificos\ProductosMagnificos\bin\ProductosMagnificos.pdb
+C:\Users\Leslie\documents\visual studio 2013\Projects\ProductosMagnificos\ProductosMagnificos\obj\Debug\ProductosMagnificos.dll
+C:\Users\Leslie\documents\visual studio 2013\Projects\ProductosMagnificos\ProductosMagnificos\obj\Debug\ProductosMagnificos.pdb
+C:\Users\Leslie\documents\visual studio 2013\Projects\ProductosMagnificos\ProductosMagnificos\bin\itextsharp.dll
