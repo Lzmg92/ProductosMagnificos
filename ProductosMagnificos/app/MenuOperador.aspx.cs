@@ -63,6 +63,8 @@ namespace ProductosMagnificos.app
             lblcodigovendedor.Text = bienvenido;
         }
 
+
+        ////////////////////////////////////////////////// agrega nuevo producto
         void agregar()
         {
             string codigoproducto = "";
@@ -184,7 +186,7 @@ namespace ProductosMagnificos.app
             }
                     }
 
-
+        ////////////////////////////////////////////// abre un nuevo registro para luego agregar los datos
 
         protected void btncomenzar_Click(object sender, EventArgs e)
         {
@@ -224,6 +226,8 @@ namespace ProductosMagnificos.app
             txtvalor.Text = "";
         }
 
+
+        ////////////////////////////////////////////////////////////// proporciona una busqueda segun los caracteres ingresados en la barra
         protected void Btnbusqueda_Click(object sender, EventArgs e)
         {
             String str = "select * from Productos where (Nombre like '%' + @search +'%')";
@@ -242,6 +246,8 @@ namespace ProductosMagnificos.app
 
         }
 
+
+          //////////////////////////////////////////////// elimina el registro cuyo codigo coinside con el ingresado
         protected void btneliminar_Click(object sender, EventArgs e)
         {
             try
@@ -291,6 +297,7 @@ namespace ProductosMagnificos.app
           } 
         }
 
+     //////////////////////////////////////////////////// agrega todos los datos modificados a la factura
        
         protected void btnterminar_Click(object sender, EventArgs e)
         {
@@ -328,6 +335,8 @@ namespace ProductosMagnificos.app
 
         }
 
+
+            ///////////////////////////////////// +++++++++++++++++++++++++++++++++++++++ crea un reporte en pdf
         protected void btnreporte_Click(object sender, EventArgs e)
         {
 
